@@ -94,7 +94,7 @@
             this.num_size.Size = new System.Drawing.Size(200, 30);
             this.num_size.TabIndex = 4;
             this.num_size.Value = new decimal(new int[] {
-            800,
+            600,
             0,
             0,
             0});
